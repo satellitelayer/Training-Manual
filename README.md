@@ -1,2 +1,2 @@
 # Training-Manual
-Allow engineering mentors prescribe training modules to mentees in large tech-driven organizations.
+Makes it easy for senior engineers to mentor junior engineers by prescribing training modules and scheduling assessments.
