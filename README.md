@@ -1,2 +1,2 @@
 # Training-Manual
-Allow engineering mentors to prescribe training modules for mentees in tech organizations.
+Allow engineering mentors prescribe training modules to mentees in large tech organizations. 
